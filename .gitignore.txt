@@ -1,2 +1,4 @@
 test3.txt
 test4.txt
+text5.txt
+text6.txt
